@@ -22,17 +22,6 @@ Small confirmation texts and tooltips for better user experience
 
 I have followed Proper code structure and naming conventions as mentioned in the assignment guidelines
 
-src/
-│
-├── assets/ # Fonts, images, global styles
-├── components/ # Reusable components like TaskForm, TaskList, TaskItem, Header, Footer, FilterBar
-├── pages/ # Page-level components (Home)
-├── services/ # Handles data persistence using localStorage
-├── utils/ # Helper functions (like uid generator)
-│
-├── App.jsx
-└── index.jsx
-
 - Libraries Used
 
 Tailwind CSS:
